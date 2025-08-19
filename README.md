@@ -45,6 +45,6 @@ Visualizations – Line charts, bar charts,
 donald chart, KPIs, slicers and filters.
 __________________________________________
 
-📊 Dashboard 
+📊 Dashboard Preview 
 <img width="998" height="605" alt="📊 Sales Dashboard Preview" src="https://github.com/user-attachments/assets/4141d651-dff8-4d4c-81f6-491b8fa310ad" />
 
